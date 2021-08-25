@@ -26,12 +26,12 @@
 ## 📊 GitHub Stats
 
   <br/>
-    <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
 
 
-<a href="https://github.com/hind-ahajjam/github-readme-activity-graph"><img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=dracula&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/hind-ahajjam/github-readme-activity-graph"><img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=rogue&hide_border=true" /></a>
 
 <br/>
 <br/>

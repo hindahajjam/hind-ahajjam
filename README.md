@@ -15,7 +15,7 @@
 ## 📋 What I am up to
 
 - Working on my portfolio website 
-- Looking to collaborate on different projects...
+- Looking to collaborate on different Data & ML related projects
 
 ## 🔗 Connect with me 
 

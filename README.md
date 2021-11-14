@@ -3,8 +3,7 @@
 
 ## 📖 About Me
 
-- 📊 Data Scientist & Statistician
-
+- 📊 Data Scientist @Ewattch
 - 🎓 Studying a Master's Degree in Statistics
 - 📍 Living in Metz, France
 
@@ -15,11 +14,10 @@
 
 ## 📋 What I am up to
 
-- Doing an internship in Data Science @ Ewattch
-
 - Working on my portfolio website 
+- Looking to collaborate on different projects...
 
-## 🔗 Connect with me
+## 🔗 Connect with me 
 
 -  <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>
 

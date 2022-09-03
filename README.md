@@ -9,6 +9,7 @@
 - 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
 - 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
 - 📱 <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>
+- 📰 <a href = "https://hindahajjam.com/newsletter"> Newsletter </a>
 
 
 

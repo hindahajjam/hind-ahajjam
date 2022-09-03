@@ -5,7 +5,7 @@
 
 - 📊 Data Scientist 
 - 🎓 Master's Degree Student in Applied Mathematics with a Focus on Engineering Math for Data Science
-- 📍 Based in France
+- 📍 France
 - 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
 - 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
 - 📱 <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>

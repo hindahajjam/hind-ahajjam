@@ -4,22 +4,13 @@
 ## 📖 About Me
 
 - 📊 Data Scientist 
-- 🎓 Master's Degree Student in Applied Mathematics with a focus on Engineering Math for Data Science
+- 🎓 Master's Degree Student in Applied Mathematics with a Focus on Engineering Math for Data Science
 - 📍 Based in France
+- 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
+- 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
+- 📱 <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>
 
 
-[comment]: <> (- 📫 Reach me at **@outlook.fr**)
-
-[comment]: <> (👨‍💻 All of my projects are available at **[My Portfolio]&#40;https://&#41;**)
-
-## 📋 What I am up to
-
-- Working on my portfolio website 
-- Looking to collaborate on different Data & ML related projects
-
-## 🔗 Connect with me 
-
--  <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>
 
 <!-- ## 📊 GitHub Stats -->
 

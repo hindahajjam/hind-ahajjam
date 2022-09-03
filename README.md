@@ -12,9 +12,9 @@
 
 
 
-<!-- ## 📊 GitHub Stats -->
+ ## 📊 GitHub Stats
 
-<!--   <br/>
+ <br/>
     <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
@@ -24,6 +24,6 @@
 
 <br/>
 <br/>
- -->
+
 
 

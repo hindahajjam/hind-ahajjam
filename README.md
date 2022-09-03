@@ -3,9 +3,9 @@
 
 ## 📖 About Me
 
-- 📊 Data Scientist @Ewattch
-- 🎓 Studying a Master's Degree in Statistics
-- 📍 Living in Metz, France
+- 📊 Data Scientist 
+- 🎓 Master's Degree Student in Applied Mathematics with a focus on Engineering Math for Data Science
+- 📍 Based in France
 
 
 [comment]: <> (- 📫 Reach me at **@outlook.fr**)

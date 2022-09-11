@@ -19,7 +19,7 @@
  <br/>
     <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-   <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hind-ahajjam&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/hind-ahajjam/github-readme-stats"><img alt="Hind Ahajjam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hind-ahajjam&layout=compact&langs_count=1&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>

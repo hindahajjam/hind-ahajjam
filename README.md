@@ -17,16 +17,13 @@
  ## 📊 GitHub Stats
 
  <br/>
-<img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <br/>
+ <a href="http://hindahajjam.com/">
+<img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a>
+
 <br/>
 
-
-
-
-
-
-<img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=rogue&hide_border=true" />
+ <a href="http://hindahajjam.com/">
+<img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=rogue&hide_border=true" /></a>
 
 <br/>
 <br/>

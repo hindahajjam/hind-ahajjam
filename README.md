@@ -22,11 +22,12 @@
 
 <br/>
 
+<br/>
+
  <a href="http://hindahajjam.com/">
 <img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=rogue&hide_border=true" /></a>
 
-<br/>
-<br/>
+
 
 
 

@@ -9,7 +9,7 @@
 - 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
 - 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
 - 📰 <a href = "https://hindahajjam.substack.com/"> I write a Newsletter about Data & AI</a> 
-- 📱 <a href = "https://www.linkedin.com/in/hind-ahajjam/">LinkedIn</a>
+- 📱 <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a>
 
 
 
@@ -18,14 +18,14 @@
 
  <br/>
  <a href="http://hindahajjam.com/">
-<img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hind-ahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a>
+<img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hindahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a>
 
 <br/>
 
 <br/>
 
  <a href="http://hindahajjam.com/">
-<img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hind-ahajjam&theme=rogue&hide_border=true" /></a>
+<img alt="Hind Ahajjam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hindahajjam&theme=rogue&hide_border=true" /></a>
 
 
 

@@ -1,7 +1,7 @@
 
 # Hi there ! I'm Hind <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 📖 About Me
+<!-- ## 📖 About Me -->
 
 - Data Scientist Based in France
 -  Master's Degree Student in Applied Mathematics with a Focus on Engineering Mathematics for Data Science
@@ -10,7 +10,7 @@
 - Available through <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a> & <a href = "https://twitter.com/hindahajjam">Twitter</a>
 
 
- ## 📊 GitHub Stats
+<!--  ## 📊 GitHub Stats
 
  <br/>
  <a href="http://hindahajjam.com/">

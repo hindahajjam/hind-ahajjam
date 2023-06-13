@@ -3,14 +3,12 @@
 
 ## 📖 About Me
 
-- 📊 Data Scientist 
+- 📊 Data Scientist Based in France
 - 🎓 Master's Degree Student in Applied Mathematics with a Focus on Engineering Math for Data Science
-- 📍 Based in France
-- 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
 - 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
+- 📫 Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
 - 📰 <a href = "https://hindahajjam.substack.com/"> I write a Newsletter about Data & AI</a> 
-- 📱 <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a>
-- 🐦 <a href = "https://twitter.com/hindahajjam">Twitter</a>
+- <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a> & <a href = "https://twitter.com/hindahajjam">Twitter</a>
 
 
 

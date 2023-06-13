@@ -10,6 +10,7 @@
 - 🌐 <a href = "https://www.hindahajjam.com"> Website </a>
 - 📰 <a href = "https://hindahajjam.substack.com/"> I write a Newsletter about Data & AI</a> 
 - 📱 <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a>
+- 🐦 <a href = "https://twitter.com/hindahajjam">Twitter</a>
 
 
 

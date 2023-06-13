@@ -16,10 +16,4 @@
  <a href="http://hindahajjam.com/">
 <img alt="Hind Ahajjam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hindahajjam&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /> </a>
 
-
-
-[![Hind Ahajjam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hindahajjam&theme=react-dark&hide_border=true)](https://github.com/hindahajjam/github-readme-activity-graph)
-
-
-
-
+<!-- [![Hind Ahajjam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hindahajjam&theme=react-dark&hide_border=true)](https://github.com/hindahajjam/github-readme-activity-graph) -->

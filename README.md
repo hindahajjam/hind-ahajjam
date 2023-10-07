@@ -4,9 +4,9 @@
 <!-- ## 📖 About Me -->
 
 - Data Scientist Based in France
--  Master's Degree Student in Applied Mathematics with a Focus on Engineering Mathematics for Data Science
+-  Master's Degree Graduate in Applied Mathematics with a Focus on Engineering Mathematics for Data Science
 - Reach me at <a href = "mailto: hind@hindahajjam.com/"> hind@hindahajjam.com </a>
-- Check my <a href = "https://hindahajjam.substack.com/"> Data & AI Newsletter</a> and my <a href = "https://www.hindahajjam.com"> Portfolio Website </a> 
+- Check out my <a href = "https://hindahajjam.substack.com/"> Newsletter</a> and my <a href = "https://www.hindahajjam.com"> Website </a> 
 - Available through <a href = "https://www.linkedin.com/in/hindahajjam/">LinkedIn</a> & <a href = "https://twitter.com/hindahajjam">Twitter</a>
 
 
